@@ -5,7 +5,7 @@
 SHA1 checksums of Apple's installers for:
 
  * [Mac OSX InstallESD.dmg](#mac-osx-installers-sha1-checksums)
- * [Xcode Installer DMGs](xcode.md)
+ * [Xcode Installer DMGs](xcode)
 
 ## Why?
 
